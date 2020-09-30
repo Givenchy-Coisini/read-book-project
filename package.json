@@ -1,0 +1,20 @@
+{
+  "name": "read-book-project",
+  "version": "1.0.0",
+  "description": "全栈项目,基于Vue+Element-ui+Nodejs+express+MySQL实现中后台管理项目",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Givenchy-Coisini/read-book-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Givenchy-Coisini/read-book-project/issues"
+  },
+  "homepage": "https://github.com/Givenchy-Coisini/read-book-project#readme"
+}
