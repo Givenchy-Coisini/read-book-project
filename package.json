@@ -4,7 +4,9 @@
   "description": "全栈项目,基于Vue+Element-ui+Nodejs+express+MySQL实现中后台管理项目",
   "main": "1.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Givenchy-Coisini/read-book-project/issues"
   },
-  "homepage": "https://github.com/Givenchy-Coisini/read-book-project#readme"
+  "homepage": "https://github.com/Givenchy-Coisini/read-book-project#readme",
+  "devDependencies": {
+    "vuepress": "^1.6.0"
+  }
 }
